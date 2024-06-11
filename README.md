@@ -1,11 +1,9 @@
 # KaggleX-Skill-Assessment
 In this challenge by predicting the price of a used vehicle
 
-Sure, here's the README file in markdown format:
-
 ---
 
-# Car Price Prediction
+## Car Price Prediction
 
 This repository contains the code and data for predicting car prices using a linear regression model. The dataset includes various features of cars, such as brand, model, year, mileage, fuel type, engine size, transmission type, exterior color, interior color, accident history, and title status. The goal is to predict the price of cars based on these features.
 
